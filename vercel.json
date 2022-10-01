@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://api.music.nice.im/:match*"
+      "destination": "https://api.music.nice.im/:match*"
     }
   ]
 }
