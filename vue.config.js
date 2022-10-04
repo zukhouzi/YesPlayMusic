@@ -23,7 +23,7 @@ module.exports = {
   pwa: {
     name: 'NiCE Music',
     iconPaths: {
-      favicon32: 'img/icons/favicon-32x32.png',
+      favicon32: 'img/icons/favicon.ico',
     },
     themeColor: '#ffffff00',
     manifestOptions: {
